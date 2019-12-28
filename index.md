@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome to My Hairstyle RecordTool
 
-You can use the [editor on GitHub](https://github.com/vsspdr/MyHairstyleRecordTool/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+![Image](icon-1024.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+This is a record of your hair status information recording tool to help you manage your personal image. You can keep track of your monthly haircut, the type of perm you use, and whether your hair is straight or curly. You can also keep track of how satisfied you are with each hairstyle, and how good each hairstyle feels to you. You can collect your favorite hairstyle, convenient in the future quickly choose your most satisfactory hairstyle, help you better manage your personality image.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+If you have any questions, you can either leave a message or send the questions to our email address.
 
-```markdown
-Syntax highlighted code block
+We will answer them for you in the first time.
 
-# Header 1
-## Header 2
-### Header 3
+### Address: iuy622462@163.com
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vsspdr/MyHairstyleRecordTool/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Thank you!
